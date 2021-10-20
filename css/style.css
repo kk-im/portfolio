@@ -186,6 +186,10 @@ max-width: 50px;
   .footer {
     display: none;
   }
+
+  div.clock {
+    display: none;
+  }
 }
 
 @media (max-width: 425px) {
