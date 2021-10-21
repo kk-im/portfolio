@@ -21,3 +21,9 @@ $("#toggle-contact").click(function () {
     // Animation complete.
   });
 });
+
+$("#toggle-frontend").click(function () {
+  $("#toggled-frontend").toggle("slow", function () {
+    // Animation complete.
+  });
+});

@@ -121,7 +121,7 @@ path {
   background-color: #7C7B74;
 }
 
-.digital {
+.frontend {
   background-color: #5B697D;
 }
 
@@ -146,6 +146,11 @@ path {
   padding: 10px 0;
 }
 
+.digital img {
+  width: 75%;
+  height: auto;
+}
+
 .content img:hover {
   -webkit-filter: grayscale(0);
 	filter: grayscale(0);
@@ -153,6 +158,10 @@ path {
 
 .content-item span {
   font-family: var(--font-light);
+}
+
+.content-carousel {
+  border: 1px solid #000;
 }
 
 .content-carousel img {
