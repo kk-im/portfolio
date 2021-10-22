@@ -125,6 +125,10 @@ path {
   background-color: #5B697D;
 }
 
+.design {
+  background-color: #AB603F;
+}
+
 .contact,
 footer {
   background-color: #9A8E89;
@@ -191,6 +195,12 @@ max-width: 50px;
   width: 100%;
   height: 40px;
 }
+
+.project-page-subheading {
+  color: #707070;
+}
+
+/* Responsive styles */
 
 @media (max-width: 700px) {
   footer {
