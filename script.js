@@ -27,3 +27,9 @@ $("#toggle-frontend").click(function () {
     // Animation complete.
   });
 });
+
+$("#toggle-digital-design").click(function () {
+  $("#toggled-digital-design").toggle("slow", function () {
+    // Animation complete.
+  });
+});
